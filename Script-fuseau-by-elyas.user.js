@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         TripleA Refund tech by @elyas.tech
 // @namespace    _
-// @version      0.8
-// @description  Timeline modifier for refund purchase on TripleA app
-// @author       ElyasTech
+// @version      2.4
+// @description  Timeline modifier for refund purchase on TripleA app G2G
+// @author       @elyas.tech
 // @match        https://app.triple-a.io/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
