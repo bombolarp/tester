@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TripleA Refund tech by @Xeni
 // @namespace    _
-// @version      5.2
+// @version      6.7
 // @description  Timeline modifier for refund purchase on TripleA app G2G
 // @author       @Xeni
 // @match        https://app.triple-a.io/*
