@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tech by @elyas.tech Updated recently
 // @namespace    _
-// @version      8.9
+// @version      9.1
 // @description  Timeline modifier Script
 // @author       @elyas.tech
 // @match        https://app.triple-a.io/*
